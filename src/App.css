@@ -1,0 +1,9 @@
+.App {
+  display: grid;
+  text-align: center;
+  height: 100vh;
+  align-content: center;
+  justify-items: center;
+  gap: 5px;
+}
+
