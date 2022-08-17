@@ -4,6 +4,10 @@
   height: 100vh;
   align-content: center;
   justify-items: center;
-  gap: 5px;
+  gap: 15px;
 }
 
+form{
+  display: grid;
+  gap: 10px;
+}
