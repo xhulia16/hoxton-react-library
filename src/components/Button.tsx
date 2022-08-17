@@ -14,6 +14,7 @@ export function Button({ children, size, ...props }: Props) {
  if (size === 'small') {
     style.paddingTop = "5px"
     style.paddingBottom = "5px"
+    style.backgroundColor="cyan"
   }
 
   if (size === 'big') {
